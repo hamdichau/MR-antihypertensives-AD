@@ -1,5 +1,7 @@
 # Repurposing antihypertensive drugs for the prevention of Alzheimer’s disease: a Mendelian Randomization study
 
+[![DOI](https://zenodo.org/badge/161325369.svg)](https://zenodo.org/badge/latestdoi/161325369)
+
 This respository contains the code to reproduce the analysis from the paper 'Repurposing antihypertensive drugs for the prevention of Alzheimer’s disease: a Mendelian Randomization study', which will be avaliable shortly from biorxiv.
 
 ## Abstract
