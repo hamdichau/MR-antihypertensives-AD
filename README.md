@@ -2,7 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/161325369.svg)](https://zenodo.org/badge/latestdoi/161325369)
 
-This respository contains the code to reproduce the analysis from the paper 'Repurposing antihypertensive drugs for the prevention of Alzheimer’s disease: a Mendelian Randomization study', which will be avaliable shortly from biorxiv.
+This respository contains the code to reproduce the analysis from the following paper:
+
+Walker, V. M., Kehoe, P. G., Martin, R. M., & Davies, N. M. (2018). Repurposing antihypertensive drugs for the prevention of Alzheimer’s disease: a Mendelian Randomization study. BioRxiv, 486878. https://www.biorxiv.org/content/early/2018/12/13/486878
 
 ## Abstract
 
@@ -17,11 +19,11 @@ Conclusions: Lowering SBP itself is unlikely to affect risk of developing Alzhei
 
 ## Using this code
 
-To run this code, set your working directy in the file 'config.R' and run this file. All other files are called when required from this file. If you would like more information concerning the data setup, please contact venexia.walker@bristol.ac.uk. 
+To run this code, set your working directly in the file 'config.R' and run this file. All other files are called when required from this file. If you would like any more information, please contact venexia.walker@bristol.ac.uk. 
 
 ## Availability of data
 
-The data used in this project are publicly avaliable and have been obtained from the following sources:
+The data used in this project are publicly available and have been obtained from the following sources:
 
 MR-Base - http://mrbase.org
 
